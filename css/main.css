@@ -1,0 +1,12 @@
+body {
+	margin: 0;
+	padding: 80px;
+	background-color: #a1c3b7;
+}
+.img_change {
+	float: left;
+	margin: 17px;
+	width: 170px;
+	height: 179px;
+	background-image: url(../img/over.png);
+}
